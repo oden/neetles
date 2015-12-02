@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":499,"scrollY":342}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":598.8,"scrollY":410.4},
+{"id":2,"expanded":false,"name":"村の民家1F","order":2,"parentId":0,"scrollX":589.1999999999999,"scrollY":410.4},
+{"id":3,"expanded":false,"name":"村の民家2F","order":3,"parentId":0,"scrollX":589.1999999999999,"scrollY":453.59999999999997}
 ]
